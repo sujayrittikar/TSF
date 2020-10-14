@@ -21,5 +21,5 @@ of news headlines.
 5] To Explore Business Analytics:
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’.
 Create storyboards.
-![Flow Chart](Supermarket Dashboard.png)
+![Flow Chart](SupermarketDashboard.png)
 Format: ![Alt Text](url)
