@@ -24,3 +24,9 @@ Create storyboards.
 
 ![Flow Chart](SupermarketDashboard.png)
 Format: ![Alt Text](url)
+
+6] Create a dashboard showing spread of Covid-19 cases in your country or any
+region:
+
+![Flow Chart](covid19dashboard.png)
+Format: ![Alt Text](url)
