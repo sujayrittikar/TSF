@@ -30,3 +30,5 @@ region:
 
 ![Flow Chart](covid19dashboard.png)
 Format: ![Alt Text](url)
+
+Link to the Dashboard: https://prod-apnortheast-a.online.tableau.com/#/site/sujayrittikar/workbooks/90945?:origin=card_share_link
